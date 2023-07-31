@@ -1,0 +1,23 @@
+
+.form[data-v-4e9cc4f4]{
+		padding-top: 0.9375rem;
+		width: 100%;
+		height: 100vh;
+		box-sizing: border-box;
+		background-color: aliceblue;
+}
+.uni-form-item[data-v-4e9cc4f4]  {
+		display: flex;
+		background-color: #fff;
+		padding: 1.09375rem 1.25rem;
+		border-bottom: 0.125rem solid #ccc;
+}
+.uni-form-item .title[data-v-4e9cc4f4]{
+		width: 6.25rem;
+}
+.uni-btn-v .btn[data-v-4e9cc4f4]{
+		margin-top: 0.9375rem;
+		width: 90%;
+		background-color: #950000;
+		color: #fff;
+}

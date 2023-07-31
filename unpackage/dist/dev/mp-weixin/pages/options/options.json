@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "选择小区",
+  "usingComponents": {
+    "u-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "u-search": "../../uni_modules/uview-plus/components/u-search/u-search"
+  }
+}

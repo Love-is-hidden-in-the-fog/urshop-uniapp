@@ -1,0 +1,21 @@
+
+.login-container.data-v-461d1d79 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.login-logo.data-v-461d1d79 {
+  font-size: 48rpx;
+  margin-bottom: 60rpx;
+}
+.login-form.data-v-461d1d79 {
+  width: 80%;
+}
+.u-button.data-v-461d1d79 {
+  margin-top: 40rpx;
+}
+.u-input.data-v-461d1d79{
+	margin-top: 40rpx;
+}

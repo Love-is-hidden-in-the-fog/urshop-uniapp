@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/Login/Login",
+    "pages/index/index",
+    "pages/category/category",
+    "pages/cart/cart",
+    "pages/mine/mine",
+    "pages/options/options",
+    "pages/subcategory/subcategory",
+    "pages/detail/detail",
+    "pages/order/order",
+    "pages/orderList/orderList",
+    "pages/address/address",
+    "pages/question/question",
+    "pages/address-editor/address-editor",
+    "pages/search/search"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "UrShop商城",
+    "navigationBarBackgroundColor": "#950000",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "selectedIconPath": "./static/logo.png",
+        "iconPath": "./static/logo.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "selectedIconPath": "./static/logo.png",
+        "iconPath": "./static/logo.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "selectedIconPath": "./static/logo.png",
+        "iconPath": "./static/logo.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "selectedIconPath": "./static/logo.png",
+        "iconPath": "./static/logo.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

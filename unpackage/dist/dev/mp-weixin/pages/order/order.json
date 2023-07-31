@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "全部订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-button": "../../uni_modules/uview-plus/components/u-button/u-button"
+  }
+}

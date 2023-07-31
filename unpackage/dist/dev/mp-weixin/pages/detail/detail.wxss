@@ -1,0 +1,184 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.swiper.data-v-eca06f3c {
+  position: relative;
+  height: 750rpx;
+}
+.price-showBox.data-v-eca06f3c {
+  background: #fff;
+  padding: 12rpx 30rpx;
+}
+.price-showBox .price-flex.data-v-eca06f3c {
+  position: relative;
+  line-height: 1.3;
+}
+.price-showBox .price-flex .price-new.data-v-eca06f3c {
+  font-size: 48rpx;
+  font-weight: bold;
+  color: #930009;
+}
+.price-showBox .price-flex .price-type.data-v-eca06f3c {
+  font-size: 32rpx;
+  margin-right: 20rpx;
+  color: #930009;
+}
+.price-showBox .price-flex .price-old.data-v-eca06f3c {
+  text-decoration: line-through;
+  color: #ccc;
+}
+.price-showBox .price-flex .fenx.data-v-eca06f3c {
+  display: flex;
+  position: absolute;
+  right: 0rpx;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 30rpx;
+  text-align: center;
+  color: #930009;
+  background-color: transparent;
+  padding: 0;
+  letter-spacing: 3rpx;
+}
+.title.data-v-eca06f3c {
+  font-size: 30rpx;
+  padding: 0 20rpx 20rpx 20rpx;
+  display: block;
+  line-height: 1.2;
+  background-color: #fff;
+  font-weight: bold;
+  color: #333;
+}
+.pro-info-foter.data-v-eca06f3c {
+  font-size: 24rpx;
+  color: #ccc;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 40rpx 20rpx 40rpx;
+  background-color: #fff;
+}
+.pro-info-foter .info-list.data-v-eca06f3c {
+  display: flex;
+  width: 23%;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.specs-select.data-v-eca06f3c {
+  height: 84rpx;
+  background-color: #fff;
+  margin-top: 10rpx;
+  padding: 0 30rpx;
+  color: #555;
+  font-size: 30rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.buy_footer.data-v-eca06f3c {
+  position: fixed;
+  z-index: 10076;
+  height: 95rpx;
+  width: 100%;
+  bottom: 0rpx;
+  right: -1rpx;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px #eee;
+  overflow: hidden;
+  display: flex;
+}
+.buy_footer .u-icon--right.data-v-eca06f3c {
+  justify-content: center;
+}
+.buy_footer .buy_footer .list.data-v-eca06f3c {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.buy_footer .buy_footer .list .ft-text.data-v-eca06f3c {
+  font-size: 24rpx;
+  color: #666;
+}
+.buy_footer .collect.data-v-eca06f3c {
+  vertical-align: top;
+  text-align: center;
+  font-size: 30rpx;
+  height: 95rpx;
+  width: 100rpx;
+  padding-bottom: 15rpx;
+}
+.buy_footer .cart.data-v-eca06f3c {
+  position: relative;
+  vertical-align: top;
+  display: inline-block;
+  height: 95rpx;
+  text-align: center;
+  font-size: 30rpx;
+  width: 100rpx;
+  padding-bottom: 15rpx;
+}
+.buy_footer .cart .cart-numb.data-v-eca06f3c {
+  position: absolute;
+  top: 5rpx;
+  right: 5rpx;
+  background: red;
+  border-radius: 50%;
+  line-height: 30rpx;
+  color: #fff;
+  padding: 0 10rpx;
+  font-size: 20rpx;
+}
+.buy_footer .footr-butn.data-v-eca06f3c {
+  position: relative;
+  width: 550rpx;
+  display: flex;
+}
+.buy_footer .footr-butn button.data-v-eca06f3c {
+  color: #fff;
+  height: 95rpx;
+  line-height: 95rpx;
+  text-align: center;
+  border-radius: 0px;
+  padding: 0;
+  font-size: 14px;
+}
+.buy_footer .footr-butn .jjkm.data-v-eca06f3c {
+  background-color: #fa8c23;
+  width: 100%;
+}
+.buy_footer .footr-butn .btn-cart.data-v-eca06f3c {
+  width: 50%;
+  background-color: #ff9500;
+}
+.buy_footer .footr-butn .btn-buy.data-v-eca06f3c {
+  width: 50%;
+  background-color: #dd2727;
+}
+.product_con.data-v-eca06f3c {
+  width: 100%;
+}
+.product_con img.data-v-eca06f3c {
+  width: 100%;
+}

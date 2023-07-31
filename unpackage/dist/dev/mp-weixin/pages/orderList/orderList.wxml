@@ -1,0 +1,1 @@
+<view><u-icon wx:if="{{a}}" u-i="11b1c26e-0" bind:__l="__l" u-p="{{a}}"></u-icon></view>

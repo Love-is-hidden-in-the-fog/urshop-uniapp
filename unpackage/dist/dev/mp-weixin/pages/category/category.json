@@ -1,0 +1,6 @@
+{
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-search": "../../uni_modules/uview-plus/components/u-search/u-search"
+  }
+}

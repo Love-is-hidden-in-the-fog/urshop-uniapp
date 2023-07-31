@@ -1,0 +1,76 @@
+
+page{
+  background-color: #f5f5f5;
+}
+.options-box{
+  position: relative;
+  background-color: #fff;
+  margin-top: 20rpx;
+  padding: 20rpx 40rpx;
+}
+.option-title,.option-adres,.option-info{
+  display: block;
+}
+.option-title{
+  margin-bottom: 10rpx;
+}
+.option-info{
+  color: #999;
+  font-size: 26rpx;
+}
+.options-box .right{
+  position: absolute;
+  right: 30rpx;
+  top: 50rpx;
+  background-color: #FD8C2E;
+  border-radius: 50%;
+}
+.search-box{
+  position: relative;
+}
+.search-box .search{
+  position: absolute;
+  top:-10rpx;
+  left: 5rpx;
+  color: #999;
+  font-size: 50rpx;
+}
+.search-box .close{
+  position: absolute;
+  top: -3rpx;
+  right: 20rpx;
+  color: #999;
+}
+.hide-no{
+  text-align: center;
+  background-color: #fff;
+  color: #999;
+}
+.marb{
+  position: relative;
+  padding-bottom: 20rpx;
+  margin-bottom: 20rpx;
+  border-bottom: 1px solid #ededed;
+}
+.distance{
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #B63C4A;
+}
+.option-flex{
+  display: flex;
+  justify-content: space-between;
+}
+.delet-hist{
+  color: #666;
+}
+.searchXiaoqu{
+  height: 60rpx;
+  background-color: #f5f5f5;
+  border-radius: 15px;
+  padding-left: 60rpx;
+  padding-right:70rpx;
+  font-size: 26rpx;
+  color: #666;
+}
